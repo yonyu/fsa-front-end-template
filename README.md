@@ -45,5 +45,17 @@ ng g c small-x
 # Copy and paste some css into styles.css under the project root
 https://github.com/shaunwa/full-stack-angular-projects/
 https://github.com/shaunwa/full-stack-angular-projects/fsa-members-only/src/styles.css
+https://github.com/shaunwa/full-stack-angular-projects/blob/b72b4e526bcb9d6e1b2f9d39e147ba2788c293af/fsa-members-only/src/styles.css
+
+# commit changes to your github accounts:
+github.com/
+new tempate to Create a new repository
+git add .
+git commit -m "Completed template"
+## copying the commands from https://github.com/yonyu/fsa-front-end-template
+git remote add origin https://github.com/yonyu/fsa-front-end-template.git
+git branch -M main
+git push -u origin main
+
 
 
