@@ -25,3 +25,15 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## Add a few files
+### Allow the frontend and backend to talk to each other on the same machine for local development
+proxy.config.json
+
+ng serve
+
+open the source file at src/app/app.component.html
+delete everything except the line below:
+<router-outlet></router-outlet>
+
+
