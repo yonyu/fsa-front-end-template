@@ -36,4 +36,6 @@ open the source file at src/app/app.component.html
 delete everything except the line below:
 <router-outlet></router-outlet>
 
-
+# create components at the folder /fsa-front-end-template
+ng generate component back-button
+ng g c small-x
