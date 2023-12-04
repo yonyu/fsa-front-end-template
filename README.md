@@ -39,3 +39,11 @@ delete everything except the line below:
 # create components at the folder /fsa-front-end-template
 ng generate component back-button
 ng g c small-x
+
+# update the components 'back-button' and 'small-x'
+
+# Copy and paste some css into styles.css under the project root
+https://github.com/shaunwa/full-stack-angular-projects/
+https://github.com/shaunwa/full-stack-angular-projects/fsa-members-only/src/styles.css
+
+
